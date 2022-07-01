@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Magang Nowaf</string>
+    <string name="hatoca">HATOCA</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgotpas"><u>Forgot Password</u></string>
+    <string name="dont">Don\'t have an account?</string>
+    <string name="signup"><u>Sign Up</u></string>
+    
+    <string name="hello">Hello, <b>Bitna Putri</b></string>
+    <string name="kumpulkan">Kumpulkan Koin Hasjrat</string>
+
+    <string name="lucky">Lucky Draw</string>
+    <string name="book">Book Test Drive</string>
+    <string name="bookservice">Book Service</string>
+    <string name="ths">THS</string>
+    <string name="catalog">Catalog</string>
+    <string name="calculator">Calculator</string>
+    <string name="claim">Claim Insurance</string>
+    <string name="service">Service Berkala</string>
+    <string name="trade">Trade In</string>
+    <string name="dealer">Dealer Location</string>
+
+</resources>
